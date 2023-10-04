@@ -3144,3 +3144,19 @@ div#graph1, div#graph4, div#graph5, div#graph6, div#graph7, div#graph8, div#grap
     padding: 0;
 }
 }
+.fa-thumbs-up:before {
+    content: "\f164";
+    color: blue;
+    font-size: 25px;
+}
+.fa-thumbs-down:before {
+    content: "\f165";
+    color: red;
+    font-size: 25px;
+}
+span.text-alert {
+    color: red;
+}
+a.active.styling-edit{
+    font-size: 23px;
+}

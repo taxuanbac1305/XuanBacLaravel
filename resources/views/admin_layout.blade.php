@@ -102,6 +102,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="{{URL::to('/all-category-product')}}">List categories</a></li>
                     </ul>
                 </li>
+				
+				<li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-book"></i>
+                        <span>Product Brands</span>
+                    </a>
+                    <ul class="sub">
+						<li><a href="{{URL::to('/add-brand-product')}}">Add Brands</a></li>
+						<li><a href="{{URL::to('/all-brand-product')}}">List Brands</a></li>
+                    </ul>
+                </li>
+
+				<li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-book"></i>
+                        <span>Product</span>
+                    </a>
+                    <ul class="sub">
+						<li><a href="{{URL::to('/add-product')}}">Add Product</a></li>
+						<li><a href="{{URL::to('/all-product')}}">List Product</a></li>
+                    </ul>
+                </li>
+
+
                 
             </ul>            </div>
         <!-- sidebar menu end-->
@@ -117,7 +141,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
  <!-- footer -->
 		  <div class="footer">
 			<div class="wthree-copyright">
-			  <p>© 2017 Visitors. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+			  <p>© 2023 Visitors. All rights reserved | Design by <a href="https://www.facebook.com/bac.ta.1305/">Fb/TaXuanBac</a></p>
 			</div>
 		  </div>
   <!-- / footer -->
