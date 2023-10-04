@@ -5,5 +5,5 @@
 - Lớp: CCQ2111J	
 - Tên đề tài: Xây dựng website bán xe hơi
 - Công nghệ: Laravel
-## Kế hoạch thực hiện: Làm giao diện backend , login và logout
-- Tuần 3 từ  18/9-24/9:
+## Kế hoạch thực hiện: Làm backend, đưa database lên frontend
+- Tuần 5 từ  27/9->4/10:
